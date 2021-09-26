@@ -7,6 +7,8 @@ pip install requests
 ### Usage
 
 ```python
+python mktcap.py
+
 import requests
 ```
 ### Examples
