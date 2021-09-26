@@ -7,6 +7,7 @@ pip install requests
 ### Usage
 
 ```python
+cd coingecko\src
 python mktcap.py
 
 import requests
