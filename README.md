@@ -15,8 +15,6 @@ import requests
 ### Examples
 
 ```
-https://www.coingecko.com/api/documentations/v3#/
-
  Cryptocurrency by Market Cap: 
 
 1 Bitcoin $ 818139868998    
